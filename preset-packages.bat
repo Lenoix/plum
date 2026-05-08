@@ -4,5 +4,6 @@ set package_list=%package_list%^
  essay^
  luna-pinyin^
  prelude^
+ quick^
  stroke^
  terra-pinyin^
