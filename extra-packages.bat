@@ -8,7 +8,6 @@ set package_list=%package_list%^
  jyutping^
  middle-chinese^
  pinyin-simp^
- quick^
  scj^
  soutzoe^
  stenotype^
